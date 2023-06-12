@@ -1,0 +1,10 @@
+* froute
+
+Routing library taking advantage of the MOP
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/FungusHumungus/froute.git   |
+| commit  | 3d9ea31  |
+| systems | froute |
+|---------+-------------------------------------------|
+
